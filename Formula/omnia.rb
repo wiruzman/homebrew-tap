@@ -1,8 +1,8 @@
 class Omnia < Formula
   desc "Keyboard-first terminal file search app for macOS"
   homepage "https://github.com/wiruzman/omnia"
-  url "https://github.com/wiruzman/omnia/releases/download/v0.0.3/omnia-v0.0.3.tar.gz"
-  sha256 "c1d79bb4a967c26d1f3a78cc9c546c9c417fb2aef137cb5a0df0bd32ff214f42"
+  url "https://github.com/wiruzman/omnia/releases/download/v0.0.4/omnia-v0.0.4.tar.gz"
+  sha256 "32952ff78f5cd7856651420df6bf67d724b51dcdd3d0d2a2ab6bb3785285bed8"
   license "MIT"
   head "https://github.com/wiruzman/omnia.git", branch: "master"
 
